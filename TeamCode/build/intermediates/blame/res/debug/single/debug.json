@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\FTC\\rrDemo\\TeamCode\\build\\intermediates\\res\\merged\\debug\\raw_readme.md.flat",
+        "source": "E:\\FTC\\rrDemo\\TeamCode\\src\\main\\res\\raw\\readme.md"
+    },
+    {
+        "merged": "E:\\FTC\\rrDemo\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml_teamwebcamcalibrations.xml.flat",
+        "source": "E:\\FTC\\rrDemo\\TeamCode\\src\\main\\res\\xml\\teamwebcamcalibrations.xml"
+    }
+]
